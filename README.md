@@ -9,16 +9,16 @@ A bash script to install necessary packages like python, pip, git and much more,
 
 Install via git.
 
-```bash
+```
 git clone https://github.com/warisreshi/packageumbrella.git
 ```
-```bash
+```
 cd packageumbrella
 ```
-```bash
+```
 sudo chmod +x *
 ```
-```bash
+```
 bash main.sh
 ```
 #### Succesfully Installed....
