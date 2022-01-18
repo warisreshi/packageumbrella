@@ -27,3 +27,6 @@ bash main.sh
 - [@warisreshi](https://www.github.com/warisreshi) Developer and Owner.
 
 
+## Feedback
+
+If you have any feedback or you think think that packageumbrella can be improved, please reach me at insta/twitter [@warisreshi](https://linktr.ee/warisreshi) or mail me at warisreshi@outlook.com
