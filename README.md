@@ -1,3 +1,4 @@
+This project is still in development and still is'nt completed.
 
 # Package Umbrella
 A bash script to install necessary packages like python, pip, git and much more, it is designed in a way that makes it easier to use for beginners, You can use it on all debian based linux systems.
